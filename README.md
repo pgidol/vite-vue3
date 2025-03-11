@@ -1,14 +1,6 @@
-# vite+vue3
+# pnpm vue3 pinia element husky eslint prettier
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+use pnpm vue3 pinia element husky eslint prettier
 
 ## Project Setup
 
